@@ -1,2 +1,3 @@
 server|https://toing.ga
-version|0
+versionCurr|0
+versionUpdate|0
